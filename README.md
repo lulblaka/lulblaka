@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lulblaka
-- 👀 I’m interested mostly in Solidity
-- 🌱 I’m currently learning and practicing.
-- 💞️ I’m looking to collaborate crypto coin creation.
-- 📫 lulblaka@gmail.com
+- 👀 I’m interested mostly in Solidity and HTML (Static Web Page development). 
+- 🌱 I’m currently hobby developer.
 
 <!---
 lulblaka/lulblaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
