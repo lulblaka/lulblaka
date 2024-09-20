@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lulblaka
-- 👀 I’m interested mostly in Python, Solidity and HTML (Static Web Page development), and also GPT-related. 
+- 👀 I’m interested mostly in Python, HTML, Static Web Page development, and also everything AI-related. 
 - 🌱 I’m currently hobby developer.
 
 <!---
